@@ -1,4 +1,4 @@
-### Hi there 👋 Probably trying to figure out a bug 🤔
+### Howdy 👋 Probably trying to figure out a bug 🤔
 
 <!--
 **kembo001/Kembo001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
